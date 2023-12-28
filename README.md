@@ -9,22 +9,15 @@ I'm aspiring to become a data professional, and I'm all about that hustle to kee
 - Data Visualization
 - Machine Learning
 - Natural Language Processing
-- ETL/ELT
 - Relational Databases (MySQL, Postgres, MS SQL Server, Dbeaver)
 
 ## 💻 Tech Stack
 - Tensorflow
 - Python
-- SQL (MySQL, Postgres, MS SQL Server, Dbeaver)
+- SQL (MySQL, Postgres, MS SQL Server)
 - BigQuery
 - Tableau
 - Looker Studio
-- Spark
-- Airflow
-- Kafka
-- Docker
-- Google Cloud
-- Streamlit
 
 ## 🌐 Connect with Me
 - LinkedIn: [bit.ly/linkedinadiputra2](https://bit.ly/linkedinadiputra2)
