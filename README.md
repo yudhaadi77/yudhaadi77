@@ -1,29 +1,25 @@
-# Hi there, I'm Yudha Adi Putra! 👋
+# Hi there, I'm Yudha Adi Putra! 👋  
 
-I'm aspiring to become a data professional, and I'm all about that hustle to keep learning and growing in the data game. I'm diving into the world of data analysis and data science, even though my formal education didn't exactly lead me down the computer science or statistics path. But guess what? I'm not letting that stop me!
+I'm a data professional with experience in **data engineering, data science, data analytics and web development**. I build **scalable data solutions, optimize ETL workflows, and apply machine learning** to turn raw data into actionable insights. Oh, and I can also **code up a web app to show off those insights because... why not?**  
 
-## ✅ Competencies
-- Exploratory Data Analysis
-- Data Wrangling
-- Statistical Analysis
-- Data Visualization
-- Machine Learning
-- Natural Language Processing
-- Relational Databases (MySQL, Postgres, MS SQL Server, Dbeaver)
+## ✅ Core Competencies  
+- Data Engineering & ETL Pipelines  
+- Exploratory Data Analysis & Data Wrangling  
+- Machine Learning & Predictive Modeling  
+- Geospatial Data Processing  
+- Statistical Analysis & Data Visualization  
+- Web Development & Backend Engineering  
 
-## 💻 Tech Stack
-- Tensorflow
-- Python
-- SQL (MySQL, Postgres, MS SQL Server)
-- BigQuery
-- Tableau
-- Looker Studio
+## 💻 Tech Stack  
+- **Programming & Data Processing:** Python (Pandas, NumPy, TensorFlow), Java  
+- **Data Engineering & Databases:** SQL (MySQL, PostgreSQL, MS SQL Server), No SQL (MonggoDB) Apache Airflow, BigQuery  
+- **Visualization & Reporting:** Power BI, Tableau, Looker Studio  
+- **Web Development:** HTML, JavaScript, CSS  
+- **Geospatial & Industry Tools:** ArcGIS, QGIS, Oasis Montaj, Surfer
 
-## 🌐 Connect with Me
-- LinkedIn: [bit.ly/linkedinadiputra2](https://bit.ly/linkedinadiputra2)
-- Email: yudhaadiputra26@gmail.com
+## 🌐 Connect with Me  
+- **LinkedIn**: [bit.ly/linkedinadiputra2](https://bit.ly/linkedinadiputra2)  
+- **Email**: yudhaadiputra26@gmail.com  
+- **GitHub Portfolio**: [github.com/yudhaadi77/MyPortofolio](https://github.com/yudhaadi77/MyPortofolio)  
 
-## 🚀 My Portfolio Projects
-Explore my portfolio projects on GitHub [here](https://github.com/yudhaadi77/MyPortofolio).
-
-Feel free to reach out and connect with me! 😊
+Let’s connect and talk about **data, code, or how Java and Python are secretly frenemies!** 😆🚀  
