@@ -8,7 +8,7 @@ I'm a data professional with experience in **data engineering, data science, dat
 - Machine Learning & Predictive Modeling  
 - Geospatial Data Processing  
 - Statistical Analysis & Data Visualization  
-- Web Development & Backend Engineering  
+- Web Development
 
 ## 💻 Tech Stack  
 - **Programming & Data Processing:** Python (Pandas, NumPy, TensorFlow), Java  
