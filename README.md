@@ -1,6 +1,6 @@
 # Hi there, I'm Yudha Adi Putra! 👋  
 
-I'm a data professional with experience in **data engineering, data science, data analytics and web development**. I build **scalable data solutions, optimize ETL workflows, and apply machine learning** to turn raw data into actionable insights. Oh, and I can also **code up a web app to show off those insights because... why not?**  
+I'm an aspiring data professional with a fresh background in Geophysics and a growing passion for data engineering, data analytics, data science, and machine learning. I’m diving deep into building scalable data solutions, optimizing ETL workflows, and exploring how machine learning can turn raw data into valuable insights. Oh, and I’m also learning how to code up web apps to showcase those insights — because why not? 
 
 ## ✅ Core Competencies  
 - Data Engineering & ETL Pipelines  
